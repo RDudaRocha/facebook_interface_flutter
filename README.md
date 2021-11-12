@@ -10,16 +10,19 @@
 
 ## Objetivo
 
-O objetivo desse aplicativo foi desenvolver um clone da interface do facebook com flutter.
+O objetivo desse aplicativo foi desenvolver um clone da interface do facebook com flutter para mobile IOS e Android.
 
 ## Funcionalidades?
 
-- [x] Layout Responsivo;
+- [x] Layout facebook;
+- [x] Troca de tela no menu inferior;
+- [x] Menu superior aparece em toda barra de rolagem;
+- [x] Disponivel para IOS e Android;
 
 ## 📱 Preview da aplicação
 
 <h1 align="center">
-   <!--img src="https://github.com/RDudaRocha/loja_virtual_flutter/blob/master/imagens/testeapp.gif" alt="Preview app"/-->
+   <img src="https://github.com/RDudaRocha/facebook_mobile_flutter/blob/main/imgem/testefacemob.gif" alt="Preview app"/>
 </h1>
 
 ## 🛠 Tecnologias utilizadas
